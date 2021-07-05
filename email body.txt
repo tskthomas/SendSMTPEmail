@@ -1,0 +1,33 @@
+<p>Terima kasih untuk partisipasi Anda dalam Webinar &ldquo;Journey to Mendix Hackathon 2021&rdquo; pada tanggal 8 Juli 2021, pukul 14.00 WIB. Anda telah terdaftar.</p>
+<p>Berikut Zoom link, meeting ID dan Passcode:</p>
+<p><a href='https://us02web.zoom.us/j/85978924355?pwd=MDU2TVNuOEszNkJmWDlTQytzT1lJZz09' target='_blank' rel='noopener noreferrer'>https://us02web.zoom.us/j/85978924355?pwd=MDU2TVNuOEszNkJmWDlTQytzT1lJZz09</a></p>
+<p>Meeting ID: 859 7892 4355 <br />Passcode: 194700</p>
+<p class='v1MsoNormal'>Webinar akan dimulai tepat waktu. Mohon agar masuk dalam ruang Zoom 5 menit sebelumnya.</p>
+<p class='v1MsoNormal'>Jika anda membutuhkan bantuan atau ingin bertanya lebih lanjut, dapat menghubungi:</p>
+<ul>
+<li class='v1MsoNormal'><a href='mailto:adonis@opexcg.com'>adonis@opexcg.com</a></li>
+<li class='v1MsoNormal'><a href='mailto:thomas@opexcg.com'>thomas@opexcg.com</a></li>
+<li class='v1MsoNormal'><a href='mailto:tania@opexcg.com'>tania@opexcg.com</a></li>
+</ul>
+<p class='v1MsoNormal'>&nbsp;</p>
+<p class='v1MsoNormal'>Terima kasih.</p>
+<p class='v1MsoNormal'>&nbsp;</p>
+<p class='v1MsoNormal'>Salam Sejahtera,</p>
+<p class='v1MsoNormal'>&nbsp;</p>
+<p class='v1MsoNormal'>Opex Consulting Group</p>
+<p class='v1MsoNormal'>https://www.opexcg.com</p>
+<p class='v1MsoNormal'>&nbsp;</p>
+<p class='v1MsoNormal'>&nbsp;</p>
+<p class='v1MsoNormal'>==================</p>
+<p class='v1MsoNormal'>&nbsp;</p>
+<p class='v1MsoNormal'>&nbsp;</p>
+<div>
+<p class='v1MsoNormal'><span style='font-family: 'Calibri Light',sans-serif;'>Best Regards,</span></p>
+<p class='v1MsoNormal'>&nbsp;</p>
+<p class='v1MsoNormal'>Franklin Kurniawan</p>
+<p class='v1MsoNormal'><em><span style='font-size: 10.0pt; color: #767171;'>Managing Partner</span></em></p>
+<p class='v1MsoNormal'><strong><span style='color: #00b0f0;'>Opex Consulting Group</span></strong></p>
+<p class='v1MsoNormal'><span style='font-size: 10.0pt; color: #767171;'>Singapore &ndash; Indonesia</span></p>
+<p class='v1MsoNormal'><em><span style='font-size: 4.0pt; font-family: 'Times New Roman',serif;'>&nbsp;</span></em></p>
+<p class='v1MsoNormal'><em><span style='font-size: 8.0pt; font-family: 'Times New Roman',serif;'>Industry 4.0 &ndash; Operational Excellence &ndash; People Development</span></em></p>
+</div>
